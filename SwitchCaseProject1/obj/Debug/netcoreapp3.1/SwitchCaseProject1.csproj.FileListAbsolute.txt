@@ -1,0 +1,13 @@
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\bin\Debug\netcoreapp3.1\SwitchCaseProject1.exe
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\bin\Debug\netcoreapp3.1\SwitchCaseProject1.deps.json
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\bin\Debug\netcoreapp3.1\SwitchCaseProject1.runtimeconfig.json
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\bin\Debug\netcoreapp3.1\SwitchCaseProject1.runtimeconfig.dev.json
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\bin\Debug\netcoreapp3.1\SwitchCaseProject1.dll
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\bin\Debug\netcoreapp3.1\SwitchCaseProject1.pdb
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\obj\Debug\netcoreapp3.1\SwitchCaseProject1.csprojAssemblyReference.cache
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\obj\Debug\netcoreapp3.1\SwitchCaseProject1.AssemblyInfoInputs.cache
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\obj\Debug\netcoreapp3.1\SwitchCaseProject1.AssemblyInfo.cs
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\obj\Debug\netcoreapp3.1\SwitchCaseProject1.csproj.CoreCompileInputs.cache
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\obj\Debug\netcoreapp3.1\SwitchCaseProject1.dll
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\obj\Debug\netcoreapp3.1\SwitchCaseProject1.pdb
+C:\Users\kelly\repos\SwitchCaseProject1\SwitchCaseProject1\obj\Debug\netcoreapp3.1\SwitchCaseProject1.genruntimeconfig.cache
